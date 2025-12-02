@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Symptoms,Symptom_Count,Disease
+1,29,Male,"fever, back pain, shortness of breath",3,Allergy
+2,76,Female,"insomnia, back pain, weight loss",3,Thyroid Disorder
+3,78,Male,"sore throat, vomiting, diarrhea",3,Influenza
+4,58,Other,"blurred vision, depression, weight loss, muscle pain",4,Stroke
+5,55,Female,"swelling, appetite loss, nausea",3,Heart Disease
+6,49,Male,"vomiting, swelling, dizziness, fatigue",4,Heart Disease
+7,69,Male,"anxiety, shortness of breath, appetite loss, cough, back pain",5,Food Poisoning
+8,25,Other,"sore throat, weight loss, chest pain, depression, anxiety, rash",6,Bronchitis
+9,11,Male,"insomnia, diarrhea, swelling",3,COVID-19
+10,47,Male,"joint pain, shortness of breath, runny nose",3,Dermatitis
+11,78,Other,"vomiting, insomnia, shortness of breath, blurred vision, depression",5,Food Poisoning
+12,72,Male,"back pain, diarrhea, nausea, runny nose, joint pain, shortness of breath, depression",7,Diabetes
+13,52,Female,"sweating, swelling, cough, diarrhea, appetite loss",5,Arthritis
+14,64,Female,"weight gain, blurred vision, dizziness, vomiting",4,COVID-19
+15,34,Other,"headache, shortness of breath, tremors, diarrhea, back pain, weight loss",6,Sinusitis
+16,12,Male,"weight gain, joint pain, rash, diarrhea, headache, abdominal pain",6,Dementia
+17,88,Female,"headache, depression, nausea",3,Dermatitis
+18,33,Other,"joint pain, anxiety, runny nose",3,Parkinson's
+19,69,Female,"insomnia, back pain, fatigue",3,Dermatitis
+20,34,Other,"fatigue, chest pain, muscle pain, nausea, runny nose",5,Obesity
